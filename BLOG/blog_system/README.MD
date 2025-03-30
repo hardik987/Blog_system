@@ -57,8 +57,9 @@ globalblog/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/globalblog.git
-   cd globalblog
+   git clone https://github.com//blog_system.git
+   cd blog_system
+
    ```
 
 2. Install dependencies:
