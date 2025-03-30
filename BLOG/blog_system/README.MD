@@ -26,7 +26,7 @@ A React.js blog application that integrates with the RestCountries API to displa
 ## Project Structure
 
 ```
-globalblog/
+blog_system/
 ├── public/
 ├── src/
 │   ├── components/
@@ -72,7 +72,7 @@ globalblog/
    npm start
    ```
 
-4. Open your browser and visit `http://localhost:3000`
+4. Open your browser and visit `http:/hardik987/localhost:3000`
 
 ## API Integration
 
